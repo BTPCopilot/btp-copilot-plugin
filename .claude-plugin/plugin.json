@@ -1,0 +1,29 @@
+{
+  "name": "btp-copilot",
+  "displayName": "BTP Copilot",
+  "version": "1.0.0",
+  "description": "Appels d'offres BTP (CCAG Travaux) : analysez un DCE, décidez go / no-go, contrôlez la DPGF et rédigez vos livrables sourcés depuis vos dossiers BTP Copilot.",
+  "author": {
+    "name": "BTP Copilot",
+    "email": "contact@btpcopilot.fr",
+    "url": "https://btpcopilot.fr"
+  },
+  "homepage": "https://btpcopilot.fr",
+  "repository": "https://github.com/BTPCopilot/btp-copilot-plugin",
+  "license": "MIT",
+  "keywords": [
+    "btp",
+    "appel-d-offres",
+    "marches-publics",
+    "dce",
+    "ccag-travaux",
+    "dpgf",
+    "construction",
+    "tender"
+  ],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://github.com/BTPCopilot/btp-copilot-plugin#readme",
+  "supportUrl": "https://btpcopilot.fr/contact",
+  "privacyPolicyUrl": "https://btpcopilot.fr/politique-de-confidentialite",
+  "termsOfServiceUrl": "https://btpcopilot.fr/conditions-generales"
+}
